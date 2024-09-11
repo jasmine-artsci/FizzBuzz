@@ -43,7 +43,7 @@ The markdown format is commonly used for things like readme files, as they allow
 which allows for basic typesetting when viewed while still being a plaintext format.
 
 Below is a blank checkbox:
-- [ ] Put an X in the [ ] to mark this as done!
+- [X] Put an X in the [ ] to mark this as done!
 
 You can edit this file directly to check off these checkboxes throughout the lab to mark things as done.
 Do so now for the checkbox above.
@@ -119,7 +119,7 @@ class FizzBuzz {
 }
 ```
 
-- [ ] Open `FizzBuzz.java` in the `src` directory and click the run button in the top left corner.
+- [X] Open `FizzBuzz.java` in the `src` directory and click the run button in the top left corner.
 
 If you don't see this button, you may need to mark `src` as the `Sources Root` for the project. You can do this
 by right-clicking the `src` directory in the `Project` tab and near the bottom of the context menu
@@ -162,7 +162,7 @@ Later in this course, you'll learn what all that mess means, but for now it is e
 
 ### Task 1.1: Rewrite this using `while`
 
-- [ ] You've puzzled through how Java `for` and `if` statements work; now rewrite this
+- [X] You've puzzled through how Java `for` and `if` statements work; now rewrite this
 to use a `while` loop instead of a `for` loop.
 
 ## How to test this code
@@ -288,7 +288,7 @@ through the readings and coding homework over the next few of weeks.
 
 ### Task 3.3 Push your latest changes
 
-- [ ] Now that you've made some more changes to your repository, you should repeat the add, commit, push process
+- [X] Now that you've made some more changes to your repository, you should repeat the add, commit, push process
 for any files that you have changed if you haven't done so recently. Remember to include a descriptive commit message!
 
 ### Task 3.4 Pulling changes from GitHub
@@ -305,7 +305,7 @@ ways to help you resolve such conflicts without too much difficulty.
 To get your first experience with `git pull`, you can make a quick change to one of the files in your Fizz Buzz repository
 on GitHub.
 
-- [ ] Open any of the files (like this readme file, for example) on the GitHub webpage for your repository. Near the
+- [X] Open any of the files (like this readme file, for example) on the GitHub webpage for your repository. Near the
 right side of the screen, you should see an edit button (with a pencil on it). Click that and make a small edit to
 the file. Then click the commit button to commit the change to the repository.
 
